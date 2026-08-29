@@ -13,6 +13,7 @@ if you have questions or a route you would like us to add to this page please em
 
 ### Central - Research forest - Clemson
 
+<iframe src="https://ridewithgps.com/embeds?type=route&id=54416061&title=Centrl-Clemson-20&sampleGraph=true&distanceMarkers=true&showPhotos=true" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
 ### Central  - Pendalton - Clemson
 
