@@ -11,7 +11,7 @@ Feel free to contact us if you share the same values. Lets make biking better an
   <img src="../assets/images/bike_poster_1.png" alt="">
 </figure>
 
----
+
 ## Friends of BikeClemson
 
 <figure style="width: 10%" class="align-left">
