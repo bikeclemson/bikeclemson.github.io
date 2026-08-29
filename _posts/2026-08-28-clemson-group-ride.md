@@ -14,5 +14,5 @@ After some thoughts on availability and other constraints, we are happy to annou
 Please keep in touch with Our [instagram](https://www.instagram.com/bikeclemson) for further updates
 
 <figure style="width: 80%" class="align-center">
-  <img src="../assets/rqr.png" alt="">
+  <img src="../../assets/rqr.png" alt="">
 </figure>
