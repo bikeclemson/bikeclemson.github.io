@@ -61,8 +61,8 @@ author:
   bio    : "Come join us and explore the world of bikes in and around the city of Clemson, SC"
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-email"
-      url: "https://"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:bikeclemson@gmail.com"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/bikeclemson"
