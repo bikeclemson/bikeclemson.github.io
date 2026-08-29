@@ -1,5 +1,9 @@
 {
   "attachmentFolderPath": "assets/images",
   "useMarkdownLinks": true,
-  "newLinkFormat": "absolute"
+  "newLinkFormat": "absolute",
+  "openBehavior": "file:",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "_posts",
+  "alwaysUpdateLinks": true
 }

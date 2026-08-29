@@ -11,10 +11,14 @@
             "id": "5bd844a956e070ec",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "_posts/2026-09-01-Bike-packing-route.md",
+                "bFile": "_posts/2026-09-01-Bike-packing-route.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: 2026-09-01-Bike-packing-route  (Working Tree)"
             }
           }
         ]
@@ -193,5 +197,10 @@
     }
   },
   "active": "5bd844a956e070ec",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "_pages/about.md",
+    "assets/images/bike_poster_1.png",
+    "_posts/2026-08-28-clemson-group-ride.md",
+    "_posts/2026-09-01-Bike-packing-route.md"
+  ]
 }
