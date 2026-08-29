@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "BikeClemson"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bikeclemson.png"
   bio    : "Come join us and explore the world of bikes in and around the city of Clemson, SC"
   links:
     - label: "Email"
