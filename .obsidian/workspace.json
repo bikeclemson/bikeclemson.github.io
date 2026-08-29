@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-08-28-clemson-group-ride.md",
+                "file": "_pages/routes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-08-28-clemson-group-ride"
+              "title": "routes"
             }
           }
         ]
@@ -196,16 +196,16 @@
   },
   "active": "e010a6222d7ccb44",
   "lastOpenFiles": [
+    "_posts/2026-09-01-Bike-packing-route.md",
+    "_posts/2026-08-28-clemson-group-ride.md",
     "_pages/tag-archive.md",
     "_pages/routes.md",
     "_pages/about.md",
-    "_posts/2026-09-01-Bike-packing-route.md",
     "README.md",
     "assets/images/bike_poster_1.png",
     "assets/images/bikeclemson.png",
     "assets/images/bio-photo.jpg",
     "assets/images/cu_recyclery_logo.png",
-    "_posts/2026-08-28-clemson-group-ride.md",
     "_pages/404.md"
   ]
 }
