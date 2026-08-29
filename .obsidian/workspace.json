@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7032cda2a13b3663",
+        "id": "3f7ea9e0cdea5082",
         "type": "tabs",
         "children": [
           {
-            "id": "5bd844a956e070ec",
+            "id": "e010a6222d7ccb44",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "_posts/2026-09-01-Bike-packing-route.md",
-                "bFile": "_posts/2026-09-01-Bike-packing-route.md",
-                "aRef": ""
+                "file": "_pages/about.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 2026-09-01-Bike-packing-route  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "about"
             }
           }
         ]
@@ -196,11 +196,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5bd844a956e070ec",
+  "active": "e010a6222d7ccb44",
   "lastOpenFiles": [
-    "_pages/about.md",
-    "assets/images/bike_poster_1.png",
     "_posts/2026-08-28-clemson-group-ride.md",
-    "_posts/2026-09-01-Bike-packing-route.md"
+    "_posts/2026-09-01-Bike-packing-route.md",
+    "assets/images/cu_recyclery_logo.png",
+    "_pages/about.md",
+    "assets/images/bike_poster_1.png"
   ]
 }
