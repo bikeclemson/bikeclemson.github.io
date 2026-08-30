@@ -21,7 +21,7 @@ Trail Notes: there are a couple of moderate climbs, possible waterfall stop (abo
 
 Trail Notes: August 2026, involves riding on a few busy roads, can be modified to be a bike packing/touring starter route by adding twin lake park as an overnight stop. Swimming spots are available on route if you are interested in cooling down
 
-<iframe src="https://ridewithgps.com/embeds?type=route&id=56870880&title=Central-Pendalton-Clemson-20&sampleGraph=true" style="width: 1px; min-width: 50%; height: 700px; border: none;" scrolling="no"></iframe>
+<iframe src="https://ridewithgps.com/embeds?type=route&id=56870880&title=Central-Pendalton-Clemson-20&sampleGraph=true" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
 
 
