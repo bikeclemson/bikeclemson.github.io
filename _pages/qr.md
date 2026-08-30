@@ -1,6 +1,6 @@
 ---
 permalink: /qr/
-title: QR
+title: You found our latest news!
 ---
 
 <figure style="width: 80%" class="align-center">
