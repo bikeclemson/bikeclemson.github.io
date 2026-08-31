@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6a0ef26df1d1304a",
+        "id": "9baca4f8b6cbe295",
         "type": "tabs",
         "children": [
           {
-            "id": "8f8073ae65b6793a",
+            "id": "568b1fa299c77c56",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -192,14 +192,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f8073ae65b6793a",
+  "active": "568b1fa299c77c56",
   "lastOpenFiles": [
-    "_pages/about.md",
     "assets/images/BC_2.png",
+    "assets/images/BC_banner.png",
+    "assets/images/bike_poster_1.png",
+    "assets/images/bikeclemson.png",
+    "assets/images/bikeclemson_banner.svg",
+    "_pages/about.md",
     "_layouts/index.html",
     "_layouts",
     "_pages/index.md",
-    "assets/images/BC_banner.png",
     "_pages/qr.md",
     "_pages/routes.md",
     "_pages/tag-archive.md",
@@ -208,9 +211,7 @@
     "_includes/head",
     "_includes",
     "-p",
-    "assets/images/bikeclemson.png",
     "_posts/2026-09-01-Bike-packing-route.md",
-    "assets/images/cu_recyclery_logo.png",
-    "assets/images/bike_poster_1.png"
+    "assets/images/cu_recyclery_logo.png"
   ]
 }
