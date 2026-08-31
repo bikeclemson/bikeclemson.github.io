@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/qr.md",
+                "file": "_pages/about.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "qr"
+              "title": "about"
             }
           }
         ]
@@ -198,8 +198,8 @@
   },
   "active": "e010a6222d7ccb44",
   "lastOpenFiles": [
-    "_pages/about.md",
     "_pages/qr.md",
+    "_pages/about.md",
     "_pages/routes.md",
     "_pages/tag-archive.md",
     "_posts/2026-08-28-clemson-group-ride.md",
