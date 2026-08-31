@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "about"
             }
+          },
+          {
+            "id": "2259a6560a553797",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_pages/index.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,10 +211,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e010a6222d7ccb44",
+  "active": "2259a6560a553797",
   "lastOpenFiles": [
-    "_pages/qr.md",
     "_pages/about.md",
+    "_pages/index.md",
+    "_pages/qr.md",
     "_pages/routes.md",
     "_pages/tag-archive.md",
     "_posts/2026-08-28-clemson-group-ride.md",
