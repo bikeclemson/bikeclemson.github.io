@@ -11,10 +11,14 @@
             "id": "568b1fa299c77c56",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_pages/about.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "about"
             }
           }
         ]
@@ -194,15 +198,15 @@
   },
   "active": "568b1fa299c77c56",
   "lastOpenFiles": [
+    "_pages/index.md",
+    "_pages/about.md",
     "assets/images/BC_2.png",
     "assets/images/BC_banner.png",
     "assets/images/bike_poster_1.png",
     "assets/images/bikeclemson.png",
     "assets/images/bikeclemson_banner.svg",
-    "_pages/about.md",
     "_layouts/index.html",
     "_layouts",
-    "_pages/index.md",
     "_pages/qr.md",
     "_pages/routes.md",
     "_pages/tag-archive.md",
