@@ -2,6 +2,10 @@
 permalink: /about/
 title: "About"
 classes: wide
+
+header:
+  overlay_filter: "0.25"
+  overlay_image: /assets/images/BC_banner.png
 ---
 
 BikeClemson is a collective of passionate folks in and around Clemson coming together to make new connections to improve and help expand the spirit of biking around the city of Clemson. 
