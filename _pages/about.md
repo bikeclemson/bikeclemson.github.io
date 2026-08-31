@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "About"
+classes: wide
 ---
 
 BikeClemson is a collective of passionate folks in and around Clemson coming together to make new connections to improve and help expand the spirit of biking around the city of Clemson. 
