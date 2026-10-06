@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_drafts/2026-09-01-Bike-packing-route.md",
-                "mode": "preview",
+                "file": "_posts/2026-09-28-bike-tour-to-sadlers-creak-state-park.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-09-01-Bike-packing-route"
+              "title": "2026-09-28-bike-tour-to-sadlers-creak-state-park"
             }
           }
         ]
@@ -196,11 +196,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d275206f265ec82a",
+  "active": "568b1fa299c77c56",
   "lastOpenFiles": [
-    "_drafts",
     "_posts/2026-08-28-clemson-group-ride.md",
     "_drafts/2026-09-01-Bike-packing-route.md",
+    "_drafts",
     "_posts/2026-09-28-bike-tour-to-sadlers-creak-state-park.md",
     "assets/images/sadlers_creek_2.png",
     "assets/images/sadlers_creek_1.png",

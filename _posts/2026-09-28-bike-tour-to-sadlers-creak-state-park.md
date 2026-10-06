@@ -12,14 +12,14 @@ tags:
 ---
 Sadler's Creek state park is located about 25 miles from Clemson on the shore of lake Hartwell. I decided on going out to the park and do a simple overnight camping trip to test out my new [one person free standing](https://www.naturehike.com/products/cloud-up-base-1-person-ultralight-backpacking-tent?variant=46417418125568) tent I had purchased a couple of weeks back.
 
-The route took me along some of the back roads avoiding some of the busier roads. I was pleasantly surprised by the shoulders on 187. they were very wide for the most part and had rumble strips for most of the way.
-
 The trip itself was not that event full, left home about 6 AM on a some what cold September morning (it was about 50 F and foggy) grabbed a quick snack at What a burger close to Pendalton, stopped at the high school for a picture. Reached my destination about 9:40 AM
 
 <figure style="width: 80%" class="align-center">
   <img src="../../assets/images/sadlers_creek_1.png" alt="">
   <figcaption class="figure-caption text-center"> Pendelton High school along the way to Sadlers Creek state park</figcaption>
 </figure>
+
+The route took me along some of the back roads avoiding some of the busier roads. I was pleasantly surprised by the shoulders on 187. They were very wide for the most part and had rumble strips for most of the way. I rode this during a weekend, I hit some traffic approaching the crossings with SC highway 24
 
 One of the other reasons for making the trip down to the state park was to join the Anderson Radio club for a field operation event: [Swine wave](https://andersonradioclub.org/2025/11/09/november-swine-wave/). Spent most of the day playing radio with folks and rolled up to my tent site right by the lake for the night. New tent worked really well and I can now pitch it up without any stakes if I had to. The form factor was a little bit different than my old tent but it worked well.
 
