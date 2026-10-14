@@ -1,4 +1,5 @@
 ---
+classes: wide
 title: Out and back to Sadlers Creek state park 
 date: 2026-10-06T11:10:00
 categories:

@@ -1,6 +1,7 @@
 ---
 title: New Clemson community Rides!
 date: 2026-08-28T21:34:30
+classes: wide
 categories:
   - blog
 tags:
