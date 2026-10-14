@@ -1,6 +1,7 @@
 ---
 permalink: /routes/
 title: "Routes"
+classes: wide
 ---
 
 You can find a curated set of routes here. All these routes has been ridden and confirmed for accuracy. 
