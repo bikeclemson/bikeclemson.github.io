@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_drafts/2026-09-28-sample-Hasith.md",
+                "file": "_posts/2026-09-28-bike-tour-to-sadlers-creak-state-park.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-09-28-sample-Hasith"
+              "title": "2026-09-28-bike-tour-to-sadlers-creak-state-park"
             }
           }
         ]
@@ -196,12 +196,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed8a4dce1466670f",
+  "active": "b026ea76f5cf97c1",
   "lastOpenFiles": [
-    "assets/images/member_qr.svg",
+    "_posts/2026-08-28-clemson-group-ride.md",
     "_posts/2026-09-28-bike-tour-to-sadlers-creak-state-park.md",
     "_drafts/2026-09-28-sample-Hasith.md",
-    "_posts/2026-08-28-clemson-group-ride.md",
+    "assets/images/member_qr.svg",
     "_pages/about.md",
     "_pages/routes.md",
     "_pages/index.md",
@@ -221,7 +221,6 @@
     "assets/images/BC_2.png",
     "assets/images/BC_banner.png",
     "assets/images/bike_poster_1.png",
-    "assets/images/bikeclemson.png",
     "_layouts/index.html",
     "_layouts",
     "_includes/head/custom.html",
