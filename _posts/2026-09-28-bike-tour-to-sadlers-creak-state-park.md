@@ -18,7 +18,7 @@ sidebar:
 ---
 Sadler's Creek state park is located about 25 miles from Clemson on the shore of lake Hartwell. I decided on going out to the park and do a simple overnight camping trip to test out my new [one person free standing](https://www.naturehike.com/products/cloud-up-base-1-person-ultralight-backpacking-tent?variant=46417418125568) tent I had purchased a couple of weeks back.
 
-The trip itself was not that event full, left home about 6 AM on a some what cold September morning (it was about 50 F and foggy) grabbed a quick snack at What a burger close to Pendalton, stopped at the high school for a picture. Reached my destination about 9:40 AM
+The trip itself was not that eventful; I left home about 6 AM on a somewhat cold September morning (it was about 50 F and foggy) grabbed a quick snack at "What a Burger" close to Pendalton, and stopped at the high school for a picture. Reached my destination about 9:40 AM
 
 <figure style="width: 80%" class="align-center">
   <img src="../../assets/images/sadlers_creek_1.png" alt="">
@@ -31,10 +31,10 @@ One of the other reasons for making the trip down to the state park was to join 
 
 <figure style="width: 80%" class="align-center">
   <img src="../../assets/images/sadlers_creek_2.png" alt="">
-  <figcaption class="figure-caption text-center"> Camp site by late Hartwel at Saddlers creek state park </figcaption>
+  <figcaption class="figure-caption text-center"> Camp site by late Hartwell at Saddlers creek state park </figcaption>
 </figure>
 
-Next morning packed up and headed out of the park back home. On the way my front valve nut broke off due to bending. But thankfully it held pressure for the rest of the ride home.
+Next morning, I packed up and headed out of the park back home. On the way, my front valve nut broke off due to bending. But thankfully it held pressure for the rest of the ride home.
 
 ## Route
 last updated: November 2026
