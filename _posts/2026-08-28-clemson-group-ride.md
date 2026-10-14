@@ -6,6 +6,7 @@ categories:
   - blog
 tags:
   - new
+author: true
 ---
 
 
