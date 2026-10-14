@@ -14,7 +14,7 @@ sidebar:
   - title: "About the author"
     image: https://placehold.co/350x250
     image_alt: "image"
-    text: "Hasith is a grad student in the US who enjoys all things bikes! "
+    text: "Hasith is a grad student in Clemson, SC, who enjoys all things bikes, moderate rides, and bike touring!"
 ---
 Sadler's Creek state park is located about 25 miles from Clemson on the shore of lake Hartwell. I decided on going out to the park and do a simple overnight camping trip to test out my new [one person free standing](https://www.naturehike.com/products/cloud-up-base-1-person-ultralight-backpacking-tent?variant=46417418125568) tent I had purchased a couple of weeks back.
 
