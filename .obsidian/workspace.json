@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/qr.md",
+                "file": "_posts/2026-09-28-bike-tour-to-sadlers-creak-state-park.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "qr"
+              "title": "2026-09-28-bike-tour-to-sadlers-creak-state-park"
             }
           }
         ]
@@ -199,6 +199,7 @@
   "active": "b026ea76f5cf97c1",
   "lastOpenFiles": [
     "_posts/2026-08-28-clemson-group-ride.md",
+    "_pages/qr.md",
     "_posts/2026-09-28-bike-tour-to-sadlers-creak-state-park.md",
     "_pages/about.md~",
     "assets/rqr.png",
@@ -220,7 +221,6 @@
     "assets/images/bikeclemson.png",
     "_layouts/index.html",
     "_layouts",
-    "_pages/qr.md",
     "_pages/routes.md",
     "_includes/head/custom.html",
     "_includes/head",
