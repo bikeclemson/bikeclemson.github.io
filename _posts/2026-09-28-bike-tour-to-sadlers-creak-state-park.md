@@ -12,7 +12,7 @@ tags:
   - Hasith
 sidebar:
   - title: "About the author"
-    image: https://placehold.co/350x250
+    image: ./../assets/images/hasith_pic.png
     image_alt: "image"
     text: "Hasith is a grad student in Clemson, SC, who enjoys all things bikes, moderate rides, and bike touring!"
 ---
